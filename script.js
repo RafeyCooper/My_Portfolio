@@ -1,5 +1,5 @@
 
-title = "Hi there, I'm Muhammad Umair. Welcome to my portfolio !           ";
+title = "Hi there, I'm Rafey Cooper. Welcome to my portfolio !           ";
 position = 0;
 function scrolltitle() {
     document.title = title.substring(position, title.length) + title.substring(0, position); 
